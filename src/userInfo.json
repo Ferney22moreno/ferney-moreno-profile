@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Ferney",
+        "lastName": "Moreno",
+        "age": 28,
+        "description": "I'm a Front-End Developer and Graphic Designer with a good experience in both areas...",
+        "skills": [
+            {"Javascript": "60%"},
+            {"html5": "80%"},
+            {"css": "80%"}
+        ],
+        "languages": [
+            {"Spanish": "Native"},
+            {"English": "intermediate"},
+            {"French": "intermediate"}
+        ],
+        "hobbies": ["Soccer", "tenis", "watch movies", "Read"]
+    }
+]
